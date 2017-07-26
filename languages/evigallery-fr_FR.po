@@ -1,0 +1,329 @@
+# Copyright (C) 2015 Better Search Replace
+# This file is distributed under the same license as the Better Search Replace package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Better Search Replace 1.0.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/better-search-"
+"replace\n"
+"POT-Creation-Date: 2016-04-15 18:33+0200\n"
+"PO-Revision-Date: 2016-04-15 18:33+0200\n"
+"Last-Translator: TWF <info@themes-wordpress-francais.com>\n"
+"Language-Team: TWF <info@themes-wordpress-francais.com>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../includes/meta_box.php:13
+msgid "Gallery items"
+msgstr "Galeries"
+
+#: ../includes/meta_box.php:23
+msgid "Add images or videos to the gallery"
+msgstr "Ajouter des images ou des vidéos à la galerie"
+
+#: ../includes/meta_box.php:26
+msgid "Add images"
+msgstr "Ajouter des photos"
+
+#: ../includes/meta_box.php:29 ../includes/meta_box.php:37
+msgid "Add video"
+msgstr "Ajouter une vidéo"
+
+#: ../includes/meta_box.php:35
+msgid "Set an URL like http://www.youtube.com/watch?v=XXXX"
+msgstr "Saisissez une adresse de la forme http://www.youtube.com/watch?v=XXXX"
+
+#: ../includes/meta_box.php:52 ../includes/meta_box.php:58
+msgid "Delete"
+msgstr "Effacer"
+
+#: ../includes/post_type.php:8
+msgid "Galleries"
+msgstr "Galeries"
+
+#: ../includes/post_type.php:9 ../includes/post_type.php:23
+#: ../includes/tinymce.php:29
+msgid "Gallery"
+msgstr "Galerie"
+
+#: ../includes/post_type.php:10
+msgid "Add New"
+msgstr "Ajouter"
+
+#: ../includes/post_type.php:11
+msgid "Add New Gallery"
+msgstr "Ajouter Nouvelle Galerie"
+
+#: ../includes/post_type.php:12
+msgid "Edit Gallery"
+msgstr "Editer Galerie"
+
+#: ../includes/post_type.php:13
+msgid "New Gallery"
+msgstr "Nouvelle Galerie"
+
+#: ../includes/post_type.php:14
+msgid "View Gallery"
+msgstr "Voir Galerie"
+
+#: ../includes/post_type.php:15
+msgid "Search Galleries"
+msgstr "Rechercher Galeries"
+
+#: ../includes/post_type.php:16 ../includes/tinymce.php:51
+msgid "No Galleries found"
+msgstr "Aucune Galerie trouvée"
+
+#: ../includes/post_type.php:17
+msgid "No Galleries found in the trash"
+msgstr "Aucune Galerie trouvée dans la Corbeille"
+
+#: ../includes/post_type.php:18
+msgid "Parent Gallery:"
+msgstr "Galerie parente:"
+
+#: ../includes/post_type.php:43
+msgid "Albums"
+msgstr "Albums"
+
+#: ../includes/post_type.php:44 ../includes/tinymce.php:30
+msgid "Album"
+msgstr "Album"
+
+#: ../includes/post_type.php:45
+msgid "Search Gallery Album"
+msgstr "Rechercher Album"
+
+#: ../includes/post_type.php:46
+msgid "All Gallery Album"
+msgstr "Tous les Albums"
+
+#: ../includes/post_type.php:47
+msgid "Parent Gallery Album"
+msgstr "Album parent"
+
+#: ../includes/post_type.php:48
+msgid "Parent Gallery Album:"
+msgstr "Album parent:"
+
+#: ../includes/post_type.php:49
+msgid "Edit Gallery Album"
+msgstr "Editer Album"
+
+#: ../includes/post_type.php:50
+msgid "Update Gallery Album"
+msgstr "Mettre à jour l'Album"
+
+#: ../includes/post_type.php:51
+msgid "Add New Gallery Album"
+msgstr "Ajouter un nouvel Album"
+
+#: ../includes/post_type.php:52
+msgid "New Gallery Album"
+msgstr "Nouvel Album"
+
+#: ../includes/post_type.php:53
+msgid "Albums of galleries"
+msgstr "Albums"
+
+#: ../includes/script_and_style.php:21 ../includes/script_and_style.php:22
+msgid "Choose a media"
+msgstr "Choisir un media"
+
+#: ../includes/script_and_style.php:24
+msgid "This video allready exists in this gallery"
+msgstr "Cette vidéo existe déjà dans la galerie"
+
+#: ../includes/script_and_style.php:25
+msgid "Some images are allready in this gallery"
+msgstr "Des images existent déjà dans cette galerie"
+
+#: ../includes/settings.php:6 ../includes/settings.php:28
+msgid "Settings"
+msgstr "Options"
+
+#: ../includes/settings.php:31
+msgid "Size of thumbnails"
+msgstr "Taille des miniatures"
+
+#: ../includes/settings.php:34
+msgid "Width in pixels"
+msgstr "Largeur en pixels"
+
+#: ../includes/settings.php:38
+msgid "Height in pixels"
+msgstr "Hauteur en pixels"
+
+#: ../includes/settings.php:48
+msgid ""
+"The size of your thumbnails have changed. You have to recreate them by "
+"clicking the recreate button"
+msgstr ""
+"La taille de vos miniatures a changé. Vous devez les recréer en cliquant sur "
+"le bouton recréer les miniatures."
+
+#: ../includes/settings.php:50
+msgid "Recreate all thumbnails"
+msgstr "Recréer les miniatures"
+
+#: ../includes/tinymce.php:14
+msgid "Gallery Soliles"
+msgstr "Galerie Soliles"
+
+#: ../includes/tinymce.php:28
+msgid "View type"
+msgstr "Mode de vue"
+
+#: ../includes/tinymce.php:39
+msgid "Choose a Gallery"
+msgstr "Choisissez une Galerie"
+
+#: ../includes/tinymce.php:46 ../includes/tinymce.php:68
+msgid "Insert"
+msgstr "Insérer"
+
+#: ../includes/tinymce.php:61
+msgid "Choose an Album"
+msgstr "Choisissez un Album"
+
+#: ../includes/tinymce.php:73
+msgid "No Album found"
+msgstr "Aucun album trouvé"
+
+#~ msgid "This video is allready in this gallery"
+#~ msgstr "Cette vidéo est déjà dans cette galerie"
+
+#~ msgid ""
+#~ "The size of your thumbnails have changed. You have to re-generate them by "
+#~ "clicking the re-generate button"
+#~ msgstr ""
+#~ "La taille des meniatures a changé. Vous devez les recréeren cliquant sur "
+#~ "le bouton recréer les miniatures."
+
+#~ msgid "Re-generate all thumbnails"
+#~ msgstr "Recréer les miniatures"
+
+#~ msgid "Gallery Item"
+#~ msgstr "Galerie"
+
+#~ msgid "Better Search Replace"
+#~ msgstr "Better Search Replace"
+
+#~ msgid ""
+#~ "No search string was defined, please enter a URL or string to search for."
+#~ msgstr ""
+#~ "Aucune chaîne de recherche a été définie, entrez une URL ou une chaîne à "
+#~ "rechercher."
+
+#~ msgid "Please select the tables that you want to update."
+#~ msgstr "Sélectionnez les tables que vous souhaitez mettre à jour."
+
+#~ msgid ""
+#~ "<p><strong>DRY RUN:</strong> <strong>%d</strong> tables were searched, "
+#~ "<strong>%d</strong> cells were found that need to be updated, and <strong>"
+#~ "%d</strong> changes were made.</p><p><a href=\"%s\" class=\"thickbox\" "
+#~ "title=\"Dry Run Details\">Click here</a> for more details, or use the "
+#~ "form below to run the search/replace.</p>"
+#~ msgstr ""
+#~ "<p><strong>Résultat de l'essai :</strong> <strong>%d</strong> tables ont "
+#~ "été parcourues, <strong>%d</strong> chaînes trouvées qui peuvent être "
+#~ "mises à jour et <strong>%d</strong> modifications auraient pu être "
+#~ "apportées.</p><p><a href=\"%s\" class=\"thickbox\" title=\"Plus de détails"
+#~ "\">Cliquez ici</a> pour plus de détails, ou utilisez le formulaire ci-"
+#~ "dessous pour exécuter la recherche/remplace.</p>"
+
+#~ msgid ""
+#~ "<p>During the search/replace, <strong>%d</strong> tables were searched, "
+#~ "with <strong>%d</strong> cells changed in <strong>%d</strong> updates.</"
+#~ "p><p><a href=\"%s\" class=\"thickbox\" title=\"Search/Replace Details"
+#~ "\">Click here</a> for more details.</p>"
+#~ msgstr ""
+#~ "<p>Pendant la recherche/remplace, <strong>%d</strong> tables ont été "
+#~ "fouillés, avec <strong>%d</strong> cellules changées dans <strong>%d</"
+#~ "strong> mises à jour.</p><p><a href=\"%s\" class=\"thickbox\" title="
+#~ "\"Plus de Details\">Cliquez ici</a> pour plus de détails.</p>"
+
+#~ msgid ""
+#~ "This tool allows you to search and replace text in your database "
+#~ "(supports serialized arrays and objects)."
+#~ msgstr ""
+#~ "Cet outil vous permet de rechercher et remplacer du texte dans votre base "
+#~ "de données (prend en charge la sérialisation des tables et objets)."
+
+#~ msgid ""
+#~ "To get started, use the form below to enter the text to be replaced and "
+#~ "select the tables to update."
+#~ msgstr ""
+#~ "Pour commencer, utiliser le formulaire ci-dessous pour entrer dans le "
+#~ "texte pour le remplacement et sélectionnez les tables à mettre à jour."
+
+#~ msgid ""
+#~ "<strong>WARNING:</strong> Make sure you backup your database before using "
+#~ "this plugin!"
+#~ msgstr ""
+#~ "<strong>Avertissement :</strong> Assurez-vous que vous avez sauvegardé "
+#~ "votre base de données avant d'utiliser ce plugin !"
+
+#~ msgid "Search for"
+#~ msgstr "Rechercher"
+
+#~ msgid "Replace with"
+#~ msgstr "Remplacer avec"
+
+#~ msgid "Select tables"
+#~ msgstr "Dans les tables"
+
+#~ msgid ""
+#~ "Select multiple tables with Ctrl-Click for Windows or Cmd-Click for Mac."
+#~ msgstr ""
+#~ "Sélectionnez plusieurs tables avec la touche CTRL+clic ou CMD+clic pour "
+#~ "Mac"
+
+#~ msgid ""
+#~ "Replace GUIDs<a href=\"http://codex.wordpress.org/"
+#~ "Changing_The_Site_URL#Important_GUID_Note\" target=\"_blank\">?</a>"
+#~ msgstr ""
+#~ "Remplacez les GUID ?<a href=\"http://codex.wordpress.org/"
+#~ "Changing_The_Site_URL#Important_GUID_Note\" target=\"_blank\"> En savoir "
+#~ "plus sur les GUID</a>"
+
+#~ msgid ""
+#~ "If left unchecked, all database columns titled 'guid' will be skipped."
+#~ msgstr ""
+#~ "Si décoché, toutes les colonnes 'guid' de la base de données seront "
+#~ "igniorés."
+
+#~ msgid "Run as dry run?"
+#~ msgstr "Juste faire un test ?"
+
+#~ msgid ""
+#~ "If checked, no changes will be made to the database, allowing you to "
+#~ "check the results beforehand."
+#~ msgstr ""
+#~ "Si coché, aucun changement ne sera apporté à la base de données, vous "
+#~ "aurez un bilan des résultats possibles"
+
+#~ msgid "Run Search/Replace"
+#~ msgstr "Rechercher/Remplacer"
+
+#~ msgid "http://expandedfronts.com/better-search-replace"
+#~ msgstr "http://expandedfronts.com/better-search-replace"
+
+#~ msgid ""
+#~ "A small plugin for running a search/replace on your WordPress database."
+#~ msgstr ""
+#~ "Un petit plugin pour rechercher et remplacer des cabine dans votre base "
+#~ "de données WordPress."
+
+#~ msgid "Expanded Fronts"
+#~ msgstr "Expanded Fronts"
+
+#~ msgid "http://expandedfronts.com"
+#~ msgstr "http://expandedfronts.com"
